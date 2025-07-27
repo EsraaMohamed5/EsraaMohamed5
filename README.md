@@ -36,22 +36,22 @@ Console app for multi-subject exams with OOP structure and result processing.
 ---
 
 ### 📌 TradeX Website
-![TradeX](https://esraamohamed5.github.io/TradeX/)
-Responsive landing page with reusable Bootstrap components.  
+Responsive landing page with reusable Bootstrap components. 
+🔗 [Live Site](https://esraamohamed5.github.io/TradeX/)  
 🔗 [GitHub Repo](https://github.com/EsraaMohamed5/TradeX)
 
 ---
 
 ### 🌍 World Site
-![World Site](https://via.placeholder.com/600x200?text=World+Site)
 Simple multi-page site showcasing structured layout and styling.  
+🔗 [Live Site](https://esraamohamed5.github.io/world-site/)  
 🔗 [GitHub Repo](https://esraamohamed5.github.io/world-site/)
 
 ---
 
 ### 🚀 AXIT Landing Page  
-![AXIT](https://esraamohamed5.github.io/AXIT/)  
 Beginner landing page focused on layout structure and responsive form design using HTML & CSS.  
+🔗 [Live Site](https://esraamohamed5.github.io/AXIT/)  
 🔗 [GitHub Repo](https://github.com/EsraaMohamed5/AXIT)
 
 ---
