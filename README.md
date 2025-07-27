@@ -60,7 +60,7 @@ Beginner landing page focused on layout structure and responsive form design usi
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/esraa-mohamed-146692248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EsraaMohamed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esraa-mohamed-146692248/)
 
 ---
 
