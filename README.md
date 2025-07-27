@@ -36,7 +36,7 @@ Console app for multi-subject exams with OOP structure and result processing.
 ---
 
 ### 📌 TradeX Website
-Responsive landing page with reusable Bootstrap components. 
+Responsive landing page with reusable Bootstrap components.  
 🔗 [Live Site](https://esraamohamed5.github.io/TradeX/)  
 🔗 [GitHub Repo](https://github.com/EsraaMohamed5/TradeX)
 
