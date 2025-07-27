@@ -1,21 +1,15 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200?text=Profile+Image" alt="Profile Picture" width="150" style="border-radius:50%;" />
+<img src="https://github.com/EsraaMohamed5.png" alt="Esraa Mohamed" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Esraa /h1>
-<h3 align="center">💻 Front-End & OOP Enthusiast | Creative CS Student</h3>
+<h1 align="center">👋 Hi, I'm Esraa </h1>
+<p style="font-size=5px;">
+  Motivated and detail-oriented computer science student with hands-on experience in software 
+  development.
+</p>
 
----
-
-## 💬 About Me
-
-> *"Code with passion, design with purpose."*
-
-I’m a creative developer who loves building modern, accessible, and responsive web apps. I'm passionate about crafting clean UIs using **HTML, CSS, JavaScript, and Bootstrap**, and implementing **OOP-based systems** with **C# and Java**.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +60,6 @@ Beginner landing page focused on layout structure and responsive form design usi
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-EsraaMohamed5-181717?style=for-the-badge&logo=github)](https://github.com/EsraaMohamed5)  
 [![LinkedIn](https://www.linkedin.com/in/esraa-mohamed-146692248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
 
 ---
@@ -74,7 +67,6 @@ Beginner landing page focused on layout structure and responsive form design usi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EsraaMohamed5&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-## Hi there 👋
 
 <!--
 **EsraaMohamed5/EsraaMohamed5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
